@@ -83,7 +83,7 @@ Each configuration file in the `configs/` folder is copy-paste ready.
 
 ## Contact
 
-Maintained by NOUKEU YOBA FRANCK GEOFFREY intern at Port Autonome de Kribi.  
+Maintained by NOUKEU YOBA FRANCK GEOFFREY intern at Port Authority of Kribi.  
 If you find issues or have improvements, feel free to open an issue or pull request.
 
 ---
