@@ -19,7 +19,7 @@ The MPLS VPN solution enables seamless communication between all CE routers via 
 
 ## Folder Structure
 ```text
-├── configs/
+├── configurations/
 │ ├── CE1_Emergence.cfg
 │ ├── CE2_AncienPort.cfg
 │ ├── CE3_Mboro.cfg
@@ -30,9 +30,9 @@ The MPLS VPN solution enables seamless communication between all CE routers via 
 │ ├── PE4.cfg
 │ ├── P1.cfg
 │ ├── P2.cfg
-│ ├── P3.cfg
-│ └── PC1.vpc
-├── README.md 
+│ └── P3.cfg
+├──── Documentation.md
+└──── README.md
 ```
 
 ## Configuration Steps
@@ -77,12 +77,13 @@ You can simulate this topology using:
 - **Cisco Packet Tracer**
 - **GNS3**
 - **EVE-NG**
+- **Monitoring with Zabbix**
 
 Each configuration file in the `configs/` folder is copy-paste ready.
 
 ## Contact
 
-Maintained by [Your Name] at Port Autonome de Kribi.  
+Maintained by NOUKEU YOBA FRANCK GEOFFREY intern at Port Autonome de Kribi.  
 If you find issues or have improvements, feel free to open an issue or pull request.
 
 ---
